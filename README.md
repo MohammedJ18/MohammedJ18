@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋, I'm Mohammed Jawad</h1>
+<h1 align="center">Hi 👋, I'm Mohammed</h1>
 <h3 align="center">A backend developer from Iraq</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammedj18&label=Profile%20views&color=0e75b6&style=flat" alt="mohammedj18" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammedj18" alt="mohammedj18" /></a> </p>
 
 - 🔭 I’m currently working on [NodeJS-ecommerce-api](https://github.com/MohammedJ18/nodejs-ecommerce-api)
 
@@ -12,6 +10,8 @@
 - 💬 Ask me about **Laravel / Livewire / Node.js / Express.js / Supabase / MySQL / MongoDB / Mongoose / PHP / JS / CSS / HTML**
 
 - 📫 How to reach me **jawad6686@gmail.com**
+
+- 📄 Know about my experiences [https://flowcv.com/resume/fhpaks5s24](https://flowcv.com/resume/fhpaks5s24)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
